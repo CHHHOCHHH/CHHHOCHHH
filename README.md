@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sng-panghaoyuan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @CHHHOCHHH
+- 👀 I’m interested in EXPLOSIVES
+- 🌱 I’m currently learning CHEMISTRY
+- 💞️ I’m looking to collaborate on ?
+- 📫 How to reach me 
 
 <!---
 sng-panghaoyuan/sng-panghaoyuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
